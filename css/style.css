@@ -436,7 +436,7 @@ a:hover {
 }
 
 /*===========================
-        6.SERVICES
+        6.SKILLS
 =============================*/
 
 .services-boxes {
@@ -476,8 +476,17 @@ a:hover {
   font-size: 15px;
 }
 
+.skillbox {
+	transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+}
+
+.skillbox:hover{
+  transform: scale(1.01);
+  box-shadow: 0 20px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
 /*===========================
-        7.CLIENT
+        7.CERTS AND AWARDS
 =============================*/
 
 .testi_boxes {
@@ -527,7 +536,7 @@ a:hover {
 }
 
 /*===========================
-        8.WORK
+        8. WORK/PROJECTS
 =============================*/
 
 .work_menu li a {
@@ -614,14 +623,6 @@ a:hover {
 
 .work_box:hover .work_img > img {
   transform: scale(1.05);
-}
-
-/*=========================
-        9.BLOG
-===========================*/
-
-.blog_color {
-  background-color: #2e3135;
 }
 
 /*=========================
