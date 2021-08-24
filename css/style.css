@@ -241,9 +241,9 @@ a:hover {
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
 .open > .dropdown-toggle.btn-outline-custom {
-  color: #000;
+  color: #4d4af3;
   background-color: #fff;
-  border-color: #fff;
+  border-color: #4d4af3;
 }
 
 .bg-overlay {
@@ -383,6 +383,10 @@ a:hover {
   height: 10px;
   width: 3px;
   background: #fff;
+}
+
+.scroll_down :hover {
+  border-color: #4d4af3
 }
 
 /*HOME 4*/
