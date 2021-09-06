@@ -630,6 +630,10 @@ a:hover {
   transform: scale(1.05);
 }
 
+.work_item {
+  margin-bottom: 50px;
+}
+
 /*=========================
         10.CONTACT
 ===========================*/
