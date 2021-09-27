@@ -1,8 +1,3 @@
-/*-----------------------------------------------------------
-* Template Name    : Chris | Responsive Bootstrap 5 Personal Template
-* File Description : Main Js file of the template
-*------------------------------------------------------------
-*/
 
 ! function ($) {
     "use strict";
@@ -131,6 +126,8 @@
         "use strict";
         $.ChrisApp.init();
     }(window.jQuery);
+
+    console.log('Welcome 👋🏾 , thanks for checking out my portfolio!  Feel free to reach out @ ChrisBCoding247@GMail.com')
 
 
 
