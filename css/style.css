@@ -481,14 +481,14 @@ a:hover {
 
 
 /* Might re-add this, we shall see  */
-/* .skillbox {
+.skillbox {
 	transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
 }
 
 .skillbox:hover{
-  transform: scale(1.01);
-  box-shadow: 0 20px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
-} */
+  transform: scale(1.03);
+  /* box-shadow: 0 20px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06); */
+}
 
 /*===========================
         7.CERTS AND AWARDS
@@ -518,6 +518,11 @@ a:hover {
   text-align: center;
 }
 
+.owl-nav {
+  text-align: center;
+}
+
+
 .owl-dots button.owl-dot {
   margin: 20px 0px;
 }
@@ -539,6 +544,8 @@ a:hover {
   border-radius: 20px;
   transition: all 0.5s;
 }
+
+
 
 /*===========================
         8. WORK/PROJECTS
