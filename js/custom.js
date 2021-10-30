@@ -127,7 +127,7 @@
         $.ChrisApp.init();
     }(window.jQuery);
 
-    console.log('%c Welcome 👋🏾 , thanks for checking out my portfolio!  Feel free to reach out @ ChrisBCoding247@Gmail.com', 'background: #3500d3; color: #fff; padding: 3px; border-radius:8px')
+    console.log('%c Welcome 👋🏾 , thanks for checking out my portfolio!  Feel free to reach out @ ChrisBCoding247@Gmail.com', 'background: #5d69f6; color: #fff; padding: 3px; border-radius:8px')
     
 
 

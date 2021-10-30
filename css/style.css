@@ -53,15 +53,15 @@ button {
 }
 
 a:hover {
-  color: #3500d3;
+  color: #5d69f6;
 }
 
 ::selection {
-  background: #3500d3;
+  background: #5d69f6;
 }
 
 ::-moz-selection {
-  background: #3500d3;
+  background: #5d69f6;
 }
 
 #preloader {
@@ -233,9 +233,9 @@ a:hover {
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
 .open > .dropdown-toggle.btn-outline-custom {
-  color: #3500d3;
+  color: #5d69f6;
   background-color: #fff;
-  border-color: #3500d3;
+  border-color: #5d69f6;
 }
 
 .bg-overlay {
@@ -378,7 +378,7 @@ a:hover {
 }
 
 .scroll_down :hover {
-  border-color: #3500d3
+  border-color: #5d69f6
 }
 
 /*HOME 4*/
@@ -559,8 +559,8 @@ a:hover {
 }
 
 .work_menu li a:hover {
-  color: #3500d3;
-  background: linear-gradient(225deg, #3500d3 60%,transparent 0) right -.0625rem bottom/220% 100%;
+  color: #5d69f6;
+  background: linear-gradient(225deg, #5d69f6 60%,transparent 0) right -.0625rem bottom/220% 100%;
   transition: background-position .4s cubic-bezier(.5,.15,.5,.85),color .2s           cubic-bezier(.5,.15,.5,.85) .2s,-webkit-text-decoration .2s cubic-bezier(.5,.15,.5,.85) .2s;
   transition: background-position .4s cubic-bezier(.5,.15,.5,.85),text-decoration .2s cubic-bezier(.5,.15,.5,.85) .2s,color .2s cubic-bezier(.5,.15,.5,.85) .2s;
   transition: background-position .4s cubic-bezier(.5,.15,.5,.85),text-decoration .2s cubic-bezier(.5,.15,.5,.85) .2s,color .2s cubic-bezier(.5,.15,.5,.85) .2s,-webkit-text-decoration .2s cubic-bezier(.5,.15,.5,.85) .2s;
@@ -674,7 +674,7 @@ a.contactlink:focus {
 }
 
 a.contactlink:hover {
-  color: #3500d3;
+  color: #5d69f6;
 }
 
 
