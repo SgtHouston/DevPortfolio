@@ -543,6 +543,10 @@ a:hover {
         8. WORK/PROJECTS
 =============================*/
 
+.project-video {
+  max-width: 70%;
+}
+
 .work_menu li a {
   cursor: pointer;
   display: block;
